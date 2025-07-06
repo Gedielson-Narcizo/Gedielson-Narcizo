@@ -12,9 +12,9 @@
 ### 🛠️ Tecnologias que estou aprendendo
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img src="https://skillicons.dev/icons?i=py" height="4" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="4" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="4" alt="NumPy" />
 </div>
 
 ---
@@ -42,3 +42,4 @@
 ### 🌐 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gedielson-narcizo-9a7a99139/)
+
