@@ -1,56 +1,44 @@
-<h2 align="left">About Me</h2>
+# 👋 Gedielson Narcizo
 
-###
+### 👨‍🎓 Sobre Mim
 
-<p align="left">👋 Hi, I'm Gedielson Narcizo<br>👀 I'm a Data Science student at USP<br>🌱 I'm currently learning Python and Machine Learning<br>💞️ I'm looking to collaborate on Data Science and AI projects</p>
+- 📚 Estudante de Data Science na USP/ESALQ  
+- 🐍 Atualmente aprendendo Python e Machine Learning  
+- 🤝 Aberto a colaborar em projetos de Ciência de Dados e Inteligência Artificial  
+- 🚀 Buscando constantemente evoluir como profissional e entusiasta de tecnologia  
 
-###
+---
 
-<h2 align="left">Techs</h2>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-</div>
-
-###
-
-<h2 align="left">Stats</h2>
-
-###
+### 🛠️ Tecnologias que estou aprendendo
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gedielson-Narcizo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="130" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gedielson-Narcizo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="130" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gedielson-Narcizo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
 </div>
 
-###
+---
 
-<h2 align="left">Project Portfolio</h2>
-
-###
-
-https://github.com/Gedielson-Narcizo/classificacao_binaria_churns
-
-###
-
-<h2 align="left">Social Media</h2>
-
-###
+### 📊 Estatísticas do GitHub
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/gedielson-narcizo-9a7a99139/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/gedielson.narcizo/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gedielson-Narcizo&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gedielson-Narcizo&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" />
 </div>
 
-###
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gedielson-Narcizo&radius=16&theme=react&area=true" height="300" />
+</div>
+
+---
+
+### 🧠 Projetos em Destaque
+
+- [📊 Classificação Binária de Churns](https://github.com/Gedielson-Narcizo/classificacao_binaria_churns)  
+  Projeto de machine learning que aplica técnicas de classificação para prever evasão de clientes.
+
+---
+
+### 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gedielson-narcizo-9a7a99139/)
